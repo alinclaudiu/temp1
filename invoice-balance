@@ -1,0 +1,13 @@
+https://api2.eon.ro/invoices/v1/invoices/invoice-balance?accountContract=1111111
+
+
+{
+    "balance": -5145.01,
+    "refund": true,
+    "date": "03.01.2025",
+    "refundInProcess": false,
+    "refundRequestCreatedAt": null,
+    "hasGuarantee": false,
+    "hasUnpaidGuarantee": false,
+    "balancePay": false
+}
