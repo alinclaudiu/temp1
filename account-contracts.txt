@@ -1,0 +1,143 @@
+
+https://api2.eon.ro/partners/v2/self-service/account-contracts
+
+[
+    {
+        "contractDetails": {
+            "consumptionPointAddress": {
+                "countyName": null,
+                "streetNumber": "22K",
+                "building": null,
+                "apartment": null,
+                "floor": null,
+                "flat": null,
+                "postalCode": "707313",
+                "street": {
+                    "streetCode": "00000xx023788",
+                    "streetName": "xxx",
+                    "streetType": {
+                        "label": "Strada",
+                        "value": "STREET"
+                    }
+                },
+                "locality": {
+                    "localityCode": "0000001113",
+                    "countyCode": "IS",
+                    "countyName": "Iaşi",
+                    "localityName": "(IS)"
+                },
+                "status": null,
+                "isSeaArea": true,
+                "addressId": null
+            },
+            "label": null,
+            "accountContract": "0021111396",
+            "partnerCode": "10111657",
+            "consumptionPointCode": "50111126",
+            "collectiveContractAccount": null,
+            "contract": "3111197",
+            "utilityType": "02",
+            "type": null,
+            "active": true,
+            "visibility": "ACTIVE",
+            "accessLevel": "OWNER",
+            "electronicInvoice": true,
+            "hasSolution": false,
+            "accountType": "INDIVIDUAL",
+            "partnerFirstName": "1111NIE",
+            "partnerLastName": "1111I",
+            "partnerAccountType": "1",
+            "companyCode": "1930",
+            "egfrLeadSent": null,
+            "servexpressLeadSent": null,
+            "hasActiveContract": false,
+            "hasActiveSolutionContract": false,
+            "isTerminatedHasBalance": true,
+            "dateMoveIn": "2020-11-21 00:00:00.000",
+            "dateMoveOut": "9999-12-31 00:00:00.000",
+            "isCollectiveContract": false,
+            "visibilityException": null,
+            "regulatedState": "01",
+            "meterReadingUnit": "E3116A",
+            "meterReadingPortion": "MME23",
+            "partnerSegment": "MMC",
+            "isProsum": false,
+            "litigation": null,
+            "disconnectionStatus": null,
+            "dateMoveOutOld": null,
+            "invoiceInitializationDate": "2025-01-03 11:07:36.123",
+            "pod": "DE11190",
+            "contracts": null
+        },
+        "subContracts": []
+    },
+    {
+        "contractDetails": {
+            "consumptionPointAddress": {
+                "countyName": null,
+                "streetNumber": "22K",
+                "building": null,
+                "apartment": null,
+                "floor": null,
+                "flat": null,
+                "postalCode": "707313",
+                "street": {
+                    "streetCode": "0000011188",
+                    "streetName": "111II",
+                    "streetType": {
+                        "label": "Strada",
+                        "value": "STREET"
+                    }
+                },
+                "locality": {
+                    "localityCode": "0000011113",
+                    "countyCode": "IS",
+                    "countyName": "Iaşi",
+                    "localityName": "(IS)"
+                },
+                "status": null,
+                "isSeaArea": true,
+                "addressId": null
+            },
+            "label": null,
+            "accountContract": "00111011",
+            "partnerCode": "1111657",
+            "consumptionPointCode": "5011533",
+            "collectiveContractAccount": null,
+            "contract": "301110",
+            "utilityType": "01",
+            "type": null,
+            "active": true,
+            "visibility": "ACTIVE",
+            "accessLevel": "OWNER",
+            "electronicInvoice": true,
+            "hasSolution": false,
+            "accountType": "INDIVIDUAL",
+            "partnerFirstName": "111IE",
+            "partnerLastName": "111I",
+            "partnerAccountType": "1",
+            "companyCode": "1930",
+            "egfrLeadSent": null,
+            "servexpressLeadSent": null,
+            "hasActiveContract": false,
+            "hasActiveSolutionContract": false,
+            "isTerminatedHasBalance": true,
+            "dateMoveIn": "2018-05-15 00:00:00.000",
+            "dateMoveOut": "9999-12-31 00:00:00.000",
+            "isCollectiveContract": false,
+            "visibilityException": null,
+            "regulatedState": "02",
+            "meterReadingUnit": "M1115R",
+            "meterReadingPortion": "II111101",
+            "partnerSegment": "MMC",
+            "isProsum": false,
+            "litigation": null,
+            "disconnectionStatus": null,
+            "dateMoveOutOld": null,
+            "invoiceInitializationDate": "2025-01-03 11:07:36.360",
+            "pod": "E1111758",
+            "contracts": null
+        },
+        "subContracts": []
+    }
+]
